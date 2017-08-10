@@ -1,3 +1,5 @@
+package org.javaclublviv.pojo;
+
 public class Person {
     private String firstName;
 
